@@ -1069,7 +1069,7 @@
 },
 {
   "id": "recIbn1v0V4skUfiR",
-  "NAME": "김금진／金錦珍",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attELgfi1BDPMuQLU",
@@ -1101,7 +1101,6 @@
   ],
   "BIO": "大家好！很高興認識您。我叫金錦珍，我有一隻狗，我愛他。我喜歡吃鳳梨酥，哈哈。",
   "TWITTER": "@partiunion",
-  "NAME_EN": "GJ Kim",
   "TITLE1_EN": "Parti (partiunion.org)",
   "BIO_EN": "A democracy activist at Parti. GJ delivers Parti's value, thoughts and action with stories. (partiunion.org)  She likes to know and experience things she matters: dogs and people, feminism, organizing, a technology which can change society, and blockchain. She's been working in a social sector since 2014. ",
   "SHOW": true,
@@ -1109,7 +1108,7 @@
 },
 {
   "id": "rec1SFvUpwBhHKA1O",
-  "NAME": "子魚",
+  "NAME": "_",
   "TITLE1": "vTaiwan／g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -1142,14 +1141,13 @@
   ],
   "BIO": "毫無反應就只是個自我滿足的宅宅，在 vTaiwan 的坑中無法自拔的 g0ver。",
   "TWITTER": "@2kanyo",
-  "NAME_EN": "Lisa Kuan-Yu Lin",
   "TITLE1_EN": "vTaiwan, g0ver",
   "SHOW": true,
   "ID": 34
 },
 {
   "id": "rec57RLl4fgkRPGhU",
-  "NAME": "何明諠",
+  "NAME": "_",
   "TITLE1": "台灣人權促進會（Taiwan Association for Human Rights）",
   "CROPPED_AVATAR": [
     {
@@ -1181,13 +1179,12 @@
     "recChJ7rfdqB0oDjm"
   ],
   "BIO": "清華大學電機系、哲學所畢業。儘管人生看似嚴重錯頻，但台權會的工作似乎又巧妙地結合兩者。從事台權會工作至今，被迫不停質疑網際網路表面上的生態運作（特別是使用者隱私與言論背後的運作機制），可能已無法再回到過往的使用者狀態，但又隱隱覺得或許這才是一個健康的狀態也說不定。",
-  "NAME_EN": "Ho Ming-Syuan",
   "SHOW": true,
   "ID": 35
 },
 {
   "id": "recaEPlfSKCXGhARi",
-  "NAME": "侯宜秀",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "atthGzR65ui51RzMn",
@@ -1217,7 +1214,6 @@
   "SCHEDULE": [
     "rec0ztQhg9drkVcry"
   ],
-  "NAME_EN": "Isabel Hou",
   "TITLE1_EN": "g0v",
   "BIO_EN": "Isabel Hou is the legal counsel of “g0v jothon” and also a seasoned attorney focusing on technological innovation and intellectual property law since 1997. Isabel has served as a legal counsel for various government programs, NGOs, and open source/culture communities.",
   "SHOW": true,
@@ -1225,7 +1221,7 @@
 },
 {
   "id": "rec16ERguhm7yTTHr",
-  "NAME": "劉哲瑋",
+  "NAME": "_",
   "TITLE1": "g0v 公有地大行動社群",
   "CROPPED_AVATAR": [
     {
@@ -1258,14 +1254,13 @@
   ],
   "BIO": "任職於空間規劃公司，關注於陪伴社區組織設想地區發展的願景與社區課題的解決，以及各類空間規劃作為一種公共政策所應致力的品質。除了規劃工作之外，持續以社群志願者的身份，參與各類開放知識公民社群的行動。",
   "TWITTER": "@cheweiii",
-  "NAME_EN": "Che Wei Liu",
   "TITLE1_EN": "g0v",
   "SHOW": true,
   "ID": 37
 },
 {
   "id": "recBWdORvLNwvcPoS",
-  "NAME": "劉嘉凱",
+  "NAME": "_",
   "TITLE1": "智庫驅動",
   "CROPPED_AVATAR": [
     {
@@ -1298,14 +1293,13 @@
   ],
   "BIO": "劉嘉凱是「DSP 智庫驅動」執行長，提供資料分析與策略諮詢服務，協助客戶改變日常工作的決策流程，以成為商業領域更棒的創新者；工作之餘，經常應邀為各級政府機關提供資料治理與開放資料之諮詢；他還與世界各地的國際組織合作推動開放資料之應用。下班之後，則積極參與《D4SG 資料英雄計畫》，運用資料力量改造社會。",
   "TWITTER": "@agentCKL",
-  "NAME_EN": "Chia-Kai Liu",
   "TITLE1_EN": "DSP, Inc.",
   "SHOW": true,
   "ID": 38
 },
 {
   "id": "reczQF85qNDNCKzZx",
-  "NAME": "yutin",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attrNtBxaPYbPOBo4",
@@ -1336,7 +1330,6 @@
     "recsBLW3IRjH2UYAI"
   ],
   "TWITTER": "@yutin1987",
-  "NAME_EN": "yutin",
   "TITLE1_EN": "g0v.tw",
   "BIO_EN": "YuTin, g0v contributor start from the 2012 year, also an internet programmer, and cloud architect. For now a chief officer in a company, focus #OpenGov #OpenSource #news.",
   "SHOW": true,
@@ -1344,7 +1337,7 @@
 },
 {
   "id": "recw0dp1q0utTdExr",
-  "NAME": "古淑薰",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attMOKqsKcuCTu5Y2",
@@ -1380,7 +1373,7 @@
 },
 {
   "id": "recmC0XfZEZiMl3bb",
-  "NAME": "周庭希",
+  "NAME": "_",
   "TITLE1": "澳門良心",
   "CROPPED_AVATAR": [
     {
@@ -1412,7 +1405,6 @@
     "recSwpk4wL79O6Lmz"
   ],
   "TWITTER": "@jasontchao",
-  "NAME_EN": "Teng Hei Jason CHAO",
   "TITLE1_EN": "Macau Conscience",
   "BIO_EN": "A software developer and social/political/human rights activist originally from Macau. Now a postgraduate student in Europe researching mobile apps, machine learning, data sovereignty and civic tech.",
   "SHOW": true,
@@ -1420,7 +1412,7 @@
 },
 {
   "id": "recPIVzZ2EoJi1FvT",
-  "NAME": "RSChiang",
+  "NAME": "_",
   "TITLE1": "國立臺灣大學開源社\n",
   "CROPPED_AVATAR": [
     {
@@ -1453,14 +1445,13 @@
   ],
   "BIO": "姜柏任（@RSChiang），國立臺灣大學法律系，臺大開源社發起人暨首屆社長。平常喜歡在公館巷弄的咖啡館裏寫程式，偶爾也兼寫狀。#qml #csharp #pythonista https://poren.tw",
   "TWITTER": "@RSChiang",
-  "NAME_EN": "RSChiang／Poren Chiang",
   "TITLE1_EN": "NTUOSC",
   "SHOW": true,
   "ID": 42
 },
 {
   "id": "rec1AWg17nLsPJ04t",
-  "NAME": "崔竟",
+  "NAME": "_",
   "TITLE1": "守語者聾人事務所",
   "CROPPED_AVATAR": [
     {
@@ -1492,13 +1483,12 @@
     "rec8swyLkJ1OJpOOx"
   ],
   "BIO": "守语者（ProSigner）成立于中国武汉市，未来希望向整个亚洲拓展。创办人之一崔竟，来自聋人家庭的聋人，经历“聋人文化”的冲击而扭转人生，当过教师、咖啡馆老板，现为法律研究机构的助理研究员。创办人之一陈玩臻，因为人类学而跨入聋人世界，自此沉沦其中。当过记者、咖啡馆员工、漫画校对工、人权研究者，现为自由职业者。",
-  "NAME_EN": "CUI JING",
   "SHOW": true,
   "ID": 43
 },
 {
   "id": "rec3HX7cWnuv9PakX",
-  "NAME": "張培鏞",
+  "NAME": "_",
   "TITLE1": "社團法人台灣數位科技與政策協進會",
   "CROPPED_AVATAR": [
     {
@@ -1530,13 +1520,12 @@
     "recst4GJ61s2kNAVL"
   ],
   "BIO": "社團法人台灣數位科技與政策協進會理事，叡揚資訊股份有限公司董事長。創立國內第一家 100% 營收以軟體及服務為業務之叡揚資訊公司，帶領團隊建立軟體工程機制及專案管理方法論，努力建立軟體、服務、知識有價之觀念，建構開拓國際市場的機制與組織，成功進入大陸及日本市場。",
-  "NAME_EN": "CHANG PEI-YUNG",
   "SHOW": true,
   "ID": 44
 },
 {
   "id": "reczAud3wnEkcUluT",
-  "NAME": "張淑貞",
+  "NAME": "_",
   "TITLE1": "台灣環境資訊協會",
   "CROPPED_AVATAR": [
     {
@@ -1574,7 +1563,7 @@
 },
 {
   "id": "recZuck1FGh5wUtli",
-  "NAME": "張芳睿",
+  "NAME": "_",
   "TITLE1": "公共數位創新空間",
   "CROPPED_AVATAR": [
     {
@@ -1607,7 +1596,6 @@
     "recLfBAHIGGQTN3sU"
   ],
   "TWITTER": "@FangJuiChang",
-  "NAME_EN": "Fang-Jui Chang",
   "TITLE1_EN": "PDIS",
   "BIO_EN": "Fang is currently working as a Service Designer/Consultant at PDIS. She leads workshops and meetings to tackle diverse social issues across departments as well as organisations and private sectors. The aim of this is to deal with cross-ministerial issues and enhance a better organisational culture from inside to outside of the government. She is a hybrid designer who graduated from the Royal College of Art with an MA in Service Design. Over the past 5 years of work experience, she has worked as a multi-dimensional designer covering a wide range of disciplines across diverse industries. Her main body of work has focused on projects in healthcare, education, urban planning, finance, and transport. She strongly believes that a designer has an obligation to work for the benefit of society and the environment as well as the commercial industry.",
   "SHOW": true,
@@ -1615,7 +1603,7 @@
 },
 {
   "id": "rec6sMP9TwkIQYfEk",
-  "NAME": "戴君翰",
+  "NAME": "_",
   "TITLE1": "公共數位創新空間",
   "CROPPED_AVATAR": [
     {
@@ -1653,7 +1641,7 @@
 },
 {
   "id": "reczHxpFAHf1zQBNE",
-  "NAME": "曾柏瑜",
+  "NAME": "_",
   "TITLE1": "曾柏瑜競選團隊",
   "CROPPED_AVATAR": [
     {
@@ -1685,13 +1673,12 @@
     "recOgBGMx8wUyB0km"
   ],
   "BIO": "2018新北市議員時代力量參選人，曾任開放文化基金會研究員，出版「2014 - 2016 開放政府觀察報告」。曾任台北市政府媒體事務組專員、亞洲青年民主連線秘書、2016年立委參選人、318佔領立法院運動媒體部。",
-  "NAME_EN": "Poyu Tseng",
   "SHOW": true,
   "ID": 48
 },
 {
   "id": "recxtPmVAMyW2KKUK",
-  "NAME": "李佳珊",
+  "NAME": "_",
   "TITLE1": "g0v 揪松團",
   "CROPPED_AVATAR": [
     {
@@ -1724,14 +1711,13 @@
   ],
   "BIO": "目前在 g0v 揪松團，專職辦松與獎助金專案。",
   "TWITTER": "@besscslee19",
-  "NAME_EN": "Bess Lee",
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
   "ID": 49
 },
 {
   "id": "recrU2XQBoXoMYgmO",
-  "NAME": "李梅君",
+  "NAME": "_",
   "TITLE1": "g0v／美國加州大學戴維斯分校",
   "CROPPED_AVATAR": [
     {
@@ -1764,7 +1750,6 @@
   ],
   "BIO": "潛伏在台灣零時政府裡，挖掘故事與八卦，思考公民怎麼與科技連結的人類學家。研究關懷黑客行動主義、開放運動、數位民主等議題。2016-2017 間，曾在開放文化基金會打雜，協助舉辦 Civic Tech Fest，並與曾柏瑜共同撰寫《開放政府觀察報告 2014-2016》。現旅居美國加州不靠海的沙漠裡，搔頭苦惱博士論文怎麼下筆。",
   "TWITTER": "@leemeichun",
-  "NAME_EN": "Mg Lee",
   "TITLE1_EN": "g0v／University of California-Davis",
   "BIO_EN": "MG is a participant observer of g0v. As an anthropologist, her research interests include hackitivism, open movements, and digital democracy. She worked in the Open Culture Foundation during 2016-2017 and helped hold Civic Tech Fest in Taipei. She is also the coauthor of “Taiwan Open Government Report 2014-2016”. Now, she is based in California, writing her dissertation on how openness is transcoded from technologies to governance.",
   "SHOW": true,
@@ -1772,7 +1757,7 @@
 },
 {
   "id": "recVGZtysFMFUOc7z",
-  "NAME": "李比鄰",
+  "NAME": "_",
   "TITLE1": "真的假的",
   "CROPPED_AVATAR": [
     {
@@ -1804,7 +1789,6 @@
     "recVjYuDM4U3JT6FB"
   ],
   "BIO": "我是一隻鶴。在 Cofacts 真的假的裡當 17+N 歲的少女，負責每日庶務。我們做了一個 LINE 上的聊天機器人，讓 chatbot 天天幫你查證文章突破同溫層。",
-  "NAME_EN": "Billion Lee",
   "TITLE1_EN": "Cofacts",
   "BIO_EN": "Contributed to Cofacts, we do fact-checking and meet-up every 2 month. Cofacts is a collaborative system connecting instant messages and fact-check reports together. ",
   "SHOW": true,
@@ -1812,7 +1796,7 @@
 },
 {
   "id": "recRKavcd0VT0nLrW",
-  "NAME": "Liz Lim",
+  "NAME": "_",
   "TITLE1": "iTaigi",
   "CROPPED_AVATAR": [
     {
@@ -1844,14 +1828,13 @@
     "rec9jdNPjk3C6BGs9"
   ],
   "BIO": "iTaigi 愛台語坑主，台語工作者，民視台灣學堂「講台語當著時」主講，過去是教育部台語辭典 ê 編輯。一逝 code 都袂曉寫，煞愛做佮 data 有關係 ê 工課，會做甲家己袂收山。",
-  "NAME_EN": "Liz Lim",
   "TITLE1_EN": "iTaigi",
   "SHOW": true,
   "ID": 52
 },
 {
   "id": "rec0D27XWg69ZmSKU",
-  "NAME": "pellaeon",
+  "NAME": "_",
   "TITLE1": "開放文化基金會",
   "CROPPED_AVATAR": [
     {
@@ -1883,7 +1866,6 @@
     "recsBLW3IRjH2UYAI"
   ],
   "BIO": "在開放文化基金會推廣資安與隱私。參與台灣自由開源軟體社群 COSCUP、SITCON 和資安社群 HITCON。嗜好是修自己平常踩到的軟體 bug 和研究各種技術，曾經貢獻過的大型專案有 ownCloud 和 bsd-cloudinit 。",
-  "NAME_EN": "pellaeon",
   "TITLE1_EN": "Open Culture Foundation (OCF)",
   "BIO_EN": "Pellaeon works to promote information security and privacy at Open Culture Foundation, Taiwan. He also participates in local FOSS and infosec communities and have contributed to many FOSS projects.",
   "SHOW": true,
@@ -1891,7 +1873,7 @@
 },
 {
   "id": "recj60tXpMRloe4of",
-  "NAME": "林邑軒",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attFN9nC8JiEkzref",
@@ -1927,7 +1909,7 @@
 },
 {
   "id": "recc0wWf8wLD5q6r5",
-  "NAME": "林雨蒼",
+  "NAME": "_",
   "TITLE1": "公共數位創新空間",
   "CROPPED_AVATAR": [
     {
@@ -1960,14 +1942,13 @@
   ],
   "BIO": "自由軟體工作者、公民記者，目前於 PDIS 擔任研究員。",
   "TWITTER": "@billy3321",
-  "NAME_EN": "Billy Zhe-Wei Lin",
   "TITLE1_EN": "PDIS",
   "SHOW": true,
   "ID": 55
 },
 {
   "id": "reciJNxqBVuM3rizq",
-  "NAME": "柯惠晴",
+  "NAME": "_",
   "TITLE1": "台灣古厝再生協會",
   "CROPPED_AVATAR": [
     {
@@ -2004,7 +1985,7 @@
 },
 {
   "id": "recoPjDqLYy2tRPmT",
-  "NAME": "MrOrz",
+  "NAME": "_",
   "TITLE1": "真的假的",
   "CROPPED_AVATAR": [
     {
@@ -2035,7 +2016,6 @@
   "SCHEDULE": [
     "recVjYuDM4U3JT6FB"
   ],
-  "NAME_EN": "MrOrz",
   "TITLE1_EN": "Cofacts",
   "BIO_EN": "I am... - A web developer that works at an Internet company as a day job. - An open-sourced civic tech supporter, participated & founded several projects that facilitates civic participation of democracy. - Going to present Cofacts, the voluntary project I have founded in mid 2016. Cofacts is a fact-checking system leveraging chatbots and crowd-sourced reports to help connecting different perspectives. For more information, please visit: http://bit.ly/cofacts-quickstart",
   "SHOW": true,
@@ -2043,7 +2023,7 @@
 },
 {
   "id": "recNapxxGYhwY2GCa",
-  "NAME": "洪國鈞",
+  "NAME": "_",
   "TITLE1": "沃草",
   "CROPPED_AVATAR": [
     {
@@ -2075,26 +2055,24 @@
     "rec4dfybn7e0WkQpc"
   ],
   "BIO": "沃草《國會無雙》專案經理。",
-  "NAME_EN": "Kuochun Hung",
   "TITLE1_EN": "Watchout",
   "SHOW": true,
   "ID": 58
 },
 {
   "id": "recKdOszZh2WYVYsl",
-  "NAME": "洪敬舒",
+  "NAME": "_",
   "TITLE1": "台灣勞工陣線",
   "SCHEDULE": [
     "recoJUijVzZVQ43OP"
   ],
   "BIO": "曾任媒體記者、國會助理、NPO政策研究與倡議專員、公平稅改聯盟發言人。現任台灣勞工陣線研究部主任、貧窮經濟研究室研究員。研究議題包含勞動貧窮、社會經濟、勞動合作社、社會企業、稅制政策。",
-  "NAME_EN": "sue sue hung",
   "SHOW": true,
   "ID": 59
 },
 {
   "id": "rec0QMNdkmTLx33se",
-  "NAME": "chihao",
+  "NAME": "_",
   "TITLE1": "沃草",
   "CROPPED_AVATAR": [
     {
@@ -2127,7 +2105,6 @@
     "reca3OervPkPDp4W8"
   ],
   "TWITTER": "@chihaoyo",
-  "NAME_EN": "chihao",
   "TITLE1_EN": "Watchout",
   "BIO_EN": "chihao builds communities and advocates for collaboration. He is an active contributor to g0v.tw, archipielago.tw, and a founding member of biomearts.net. He is also the Design and Technology Lead at Watchout, a congressional news media and democracy tech launcher in Taiwan. He works to critique and renew journalistic organization and processes, and to build a network of tools and systems that informs and empowers Taiwanese political deliberation and participation.",
   "SHOW": true,
@@ -2135,7 +2112,7 @@
 },
 {
   "id": "recHf9MwpRt1PnPrS",
-  "NAME": "王向榮",
+  "NAME": "_",
   "TITLE1": "g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -2168,27 +2145,25 @@
   ],
   "BIO": "李慕約公司共同創辦人，g0v 社群長期參與者，發起與參與過新聞小幫手、求職小幫手、台灣公司資料、開放政治獻金等專案，希望更透明的政府可以讓大家有更自由幸福的生活。從一個喜歡爬政府資料做應用的人，開始變成部會的開放資料諮詢委員再變成開放資料平台的技術顧問，並至台灣各地幫機關和地方政府做資料品質教育訓練，我想分享這幾年從各種不同的身份不同角度看到的資料發展的情況以及問題。",
   "TWITTER": "@ronnywang",
-  "NAME_EN": " Ronny Wang",
   "TITLE1_EN": "g0ver",
   "SHOW": true,
   "ID": 61
 },
 {
   "id": "recXZa69GkDCDqMJ1",
-  "NAME": "王希",
+  "NAME": "_",
   "TITLE1": "沃草",
   "SCHEDULE": [
     "rec4dfybn7e0WkQpc"
   ],
   "BIO": "沃草專案經理，負責「2016 立委出任務」、「2016 開放國會松」、「2017 給問擂台」、「2018 六都市長給問嗎」等專案。參與過許多公民運動，包含公民 1985 行動聯盟、反黑箱課綱微調、反黑箱服貿佔領立法院行動等。認為台灣過去許多問題來自於民眾對明君聖主的迷信，相信集合群眾智慧才是改變台灣現況的關鍵。",
-  "NAME_EN": "Josh Wang",
   "TITLE1_EN": "Watchout",
   "SHOW": true,
   "ID": 62
 },
 {
   "id": "recyPdFle9IWTRsWL",
-  "NAME": "瞿筱葳",
+  "NAME": "_",
   "TITLE1": "g0v 揪松團",
   "CROPPED_AVATAR": [
     {
@@ -2221,14 +2196,13 @@
   ],
   "BIO": "g0v 零時政府共同發起人，作家/紀錄片工作者，一個阿木。近年關注開源文化與數位公民參與，2015 年起推動 g0v 揪松團運作，深耕開放社群基礎建設。",
   "TWITTER": "@ipa",
-  "NAME_EN": "Ipa Chiu",
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
   "ID": 63
 },
 {
   "id": "recR3u8mf860neBej",
-  "NAME": "簡信昌",
+  "NAME": "_",
   "TITLE1": "g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -2261,14 +2235,13 @@
     "rec92ZDxADbUW2hpU"
   ],
   "BIO": "H.C.，曾經協助舉辦 2003 P3P、2004-2005 YAPC::Taipei、2006-2014 OSDC.tw 及 2014 g0v summit。2015 年進入新聞媒體，歷經報導者與鏡傳媒，目前正在進行一個新的媒體實驗：READr。",
-  "NAME_EN": "HC",
   "TITLE1_EN": "g0ver",
   "SHOW": true,
   "ID": 64
 },
 {
   "id": "recUiBQpIFUZZGKtt",
-  "NAME": "小班",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "att0rDEU6rBTewoNt",
@@ -2306,7 +2279,7 @@
 },
 {
   "id": "recFAUd5qZmYe4XyF",
-  "NAME": "Rex Tsai",
+  "NAME": "_",
   "TITLE1": "山岳政策監督聯盟／福爾摩沙山難預防協會",
   "CROPPED_AVATAR": [
     {
@@ -2339,14 +2312,13 @@
   ],
   "BIO": "蔡志展 (Rex Tsai) 長期關注與推廣於台灣開放原始碼與開放街圖社群，2013 年起推動 OpenStreetMap 圖資用於登山運動，並參與政府開放資料等討論會議。近年透過山岳政策監督聯盟與福爾摩沙山難預防協會進一步倡議解除山岳活動管制政策。",
   "TWITTER": "@chihchun",
-  "NAME_EN": "Rex Tsai",
   "TITLE1_EN": "OpenStreetMap Taiwan",
   "SHOW": true,
   "ID": 66
 },
 {
   "id": "recbBOxy3jaIK3cyb",
-  "NAME": "蔡明翰",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attnW4196FI1jS7aX",
@@ -2377,7 +2349,6 @@
     "recOgBGMx8wUyB0km"
   ],
   "BIO": "台灣公務革新力量聯盟理事長",
-  "NAME_EN": "TSAI, MING-HAN",
   "TITLE1_EN": "Taiwan Civil Service Innovation Coalition",
   "BIO_EN": "President of “Taiwan Civil Service Innovation Coalition”, an NGO in Taiwan. ",
   "SHOW": true,
@@ -2385,7 +2356,7 @@
 },
 {
   "id": "recuZeZzSMseFu8qc",
-  "NAME": "蔡淳任",
+  "NAME": "_",
   "TITLE1": "台灣文化政策研究學會",
   "CROPPED_AVATAR": [
     {
@@ -2423,7 +2394,7 @@
 },
 {
   "id": "recLFCTqZQIEPiyAw",
-  "NAME": "蕭新晟",
+  "NAME": "_",
   "TITLE1": "遺落在世界的國家寶藏",
   "CROPPED_AVATAR": [
     {
@@ -2455,7 +2426,6 @@
     "recaLqkd543k9UGBH"
   ],
   "TWITTER": "@hsiaoataipei",
-  "NAME_EN": "Hsin-Cheng Hsiao",
   "TITLE1_EN": "Taiwan National Treasure",
   "BIO_EN": "I am the cofounder of Taiwan National Treasure. I am a former physicist and software engineer. When I am not writing code, I am either building my next big ideas or running my political campaign. ",
   "SHOW": true,
@@ -2463,7 +2433,7 @@
 },
 {
   "id": "recuiPDrKMeiAhWpt",
-  "NAME": "許恩恩",
+  "NAME": "_",
   "TITLE1": "台灣廢除死刑推動聯盟\n",
   "CROPPED_AVATAR": [
     {
@@ -2500,7 +2470,7 @@
 },
 {
   "id": "recnQtXAKHhIkSvG0",
-  "NAME": "郭芙志",
+  "NAME": "_",
   "TITLE1": "女人迷／#CodeforGender",
   "CROPPED_AVATAR": [
     {
@@ -2532,14 +2502,13 @@
     "recc415V4ubnKQuWS"
   ],
   "BIO": "女人迷服務設計師，#codeforgender 負責人。實踐性別友善至日常生活，從引領女人迷網頁改版，到領導舉辦 2016 年首屆性別暴力防治駭客松，身為「女人迷日報」app 設計師，期待自己能創造啟發他人的美好時刻。",
-  "NAME_EN": "Merci Kuo",
   "TITLE1_EN": "Womany／#CodeforGender",
   "SHOW": true,
   "ID": 71
 },
 {
   "id": "recWpEskTXG8rJPzd",
-  "NAME": "鄧東波",
+  "NAME": "_",
   "TITLE1": "開放街圖台灣",
   "CROPPED_AVATAR": [
     {
@@ -2578,7 +2547,7 @@
 },
 {
   "id": "recinknkjcyIhY78w",
-  "NAME": "鄭婷宇",
+  "NAME": "_",
   "TITLE1": "g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -2616,7 +2585,7 @@
 },
 {
   "id": "rec0n0z8TeiOz7gGE",
-  "NAME": "関治之",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attxwLrFkwlqmJbN3",
@@ -2647,7 +2616,6 @@
     "recIxC0oyWvqiDfwF"
   ],
   "TWITTER": "@hal_sk",
-  "NAME_EN": "Haruyuki Seki",
   "TITLE1_EN": "Code for Japan",
   "BIO_EN": "Representative of Code for Japan. ",
   "SHOW": true,
@@ -2655,20 +2623,19 @@
 },
 {
   "id": "recMwjcXwOl1bUbB0",
-  "NAME": "陳姿廷",
+  "NAME": "_",
   "TITLE1": "女人迷／#CodeforGender",
   "SCHEDULE": [
     "recc415V4ubnKQuWS"
   ],
   "BIO": "\n",
-  "NAME_EN": "Tzy Tyng Chen",
   "TITLE1_EN": "Womany／#CodeforGender",
   "BIO_EN": "Tzy-Tyng is the new business model creator at Womany, and the initiator of #CodeforGender where she leads meetups, workshops, hackathons, seeking the combination of technology with gender issue. ",
   "ID": 75
 },
 {
   "id": "recK0cFa3s8GoKxIu",
-  "NAME": "陳幸延",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attIJoCCw1sZsN7KP",
@@ -2699,14 +2666,13 @@
     "recuWfRYVLT01dE1I"
   ],
   "BIO": "半碼半農的生活，希望科學與資訊能夠落實到生活中，為生活帶來實用的改善；並希望發揮自由軟體的精神，可以使社會合作關係更進步。",
-  "NAME_EN": "Reuben Chan",
   "TITLE1_EN": "Open Hack Farm",
   "SHOW": true,
   "ID": 76
 },
 {
   "id": "recgUKKheq5ofsRcO",
-  "NAME": "陳彥良",
+  "NAME": "_",
   "TITLE1": "臺北市政府青年事務委員會",
   "CROPPED_AVATAR": [
     {
@@ -2739,7 +2705,7 @@
 },
 {
   "id": "recydfxQaZ6fCeZfJ",
-  "NAME": "陳玩臻",
+  "NAME": "_",
   "TITLE1": "守語者",
   "CROPPED_AVATAR": [
     {
@@ -2771,14 +2737,13 @@
     "rec8swyLkJ1OJpOOx"
   ],
   "BIO": "守語者聯合創辦人陳玩臻，因為人類學而跨入聾人世界，自此沉淪其中。當過記者、咖啡館員工、包裝工人、漫畫校對工、人權研究者，現為自由職業者。",
-  "NAME_EN": "CHEN WANCHEN",
   "TITLE1_EN": "ProSigner",
   "SHOW": true,
   "ID": 78
 },
 {
   "id": "rec2oDPPgckNj6lZ5",
-  "NAME": "駱勁成",
+  "NAME": "_",
   "TITLE1": "g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -2810,14 +2775,13 @@
     "recOgBGMx8wUyB0km"
   ],
   "BIO": "議員／立委投票指南發起人。",
-  "NAME_EN": "Johnny",
   "TITLE1_EN": "g0ver",
   "SHOW": true,
   "ID": 79
 },
 {
   "id": "recDt3F3yIReLZiFC",
-  "NAME": "黃敬群",
+  "NAME": "_",
   "TITLE1": "台灣國立成功大學",
   "CROPPED_AVATAR": [
     {
@@ -2850,13 +2814,12 @@
   ],
   "BIO": "成功大學資訊工程系助理教授，網上慣稱是「jserv」，專注於系統軟體開發。歷任聯發科技、台達電子、鴻海科技集團，和工研院的技術顧問，並長期貢獻於開放原始碼。",
   "TWITTER": "@jserv",
-  "NAME_EN": "Jim Huang／jserv",
   "SHOW": true,
   "ID": 80
 },
 {
   "id": "rechVSn8f4piEwap2",
-  "NAME": "黃浩華",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attgAfS9pLErWNmcu",
@@ -2887,7 +2850,6 @@
     "rec9GyqUkNeaN0n21"
   ],
   "BIO": "軟件工程師，Python 開發者，g0vhk.io 發起人，倡議開放數據",
-  "NAME_EN": "Wong Ho Wa",
   "TITLE1_EN": "g0vhk.io",
   "BIO_EN": "A brief summary to existing civic tech  community and project including PopVote, Civic Data HK, g0vhk.io, collaction.hk and Open Culture Station",
   "SHOW": true,
@@ -2895,7 +2857,7 @@
 },
 {
   "id": "recLcBKTDWdZ5n4xp",
-  "NAME": "g0v 公民科技創新獎助金",
+  "NAME": "_",
   "TITLE1": "g0v 揪松團",
   "CROPPED_AVATAR": [
     {
@@ -2927,14 +2889,13 @@
     "recL6A9ldkzf03s84"
   ],
   "BIO": "揪松團是主辦大黑客松與基礎松的工作小組（task force），2012 年底開始舉辦雙月大松，由 clkao、ipa 處理大松行政事務。2014 年後取名為「揪松團」（jothon group），並於 2016 年增加人手，重啟社群基礎建設計畫，希望在大黑客松之餘，線上線下跨界協作更為順暢。2017 年起籌辦 g0v 公民科技創新獎助金（Civic Tech Prototype Grant）。目前揪松團成員有 clkao、ipa、kirby、ttcat、isabel、ronnywang、bess。",
-  "NAME_EN": "g0v Civic Tech Prototype Grant",
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
   "ID": 82
 },
 {
   "id": "recAYj0HnT0aCJtT3",
-  "NAME": "李仲庭",
+  "NAME": "_",
   "TITLE1": "地下勞動合作社",
   "CROPPED_AVATAR": [
     {
@@ -2966,14 +2927,13 @@
     "recLLsXbJtwdxLeTc"
   ],
   "BIO": "臺北都會裡安貧樂道的自由工作者；目前是地下勞動合作社負責人，也曾在社運團體、社福機構、資訊公司負責營運管理、研究發展、系統導入等工作。學思背景是社會學與公共行政，實踐領域是社會經濟（Social Economy）與合作社運動、社區營造等，喜歡思考經濟事業如何以人為本、創造社群共好。",
-  "NAME_EN": "Lee, Zhong-ting",
   "TITLE1_EN": "Underground Worker Co-op.",
   "SHOW": true,
   "ID": 83
 },
 {
   "id": "rec0yvNWwvUecnquS",
-  "NAME": "陳志銘",
+  "NAME": "_",
   "TITLE1": "台北市政府",
   "CROPPED_AVATAR": [
     {
