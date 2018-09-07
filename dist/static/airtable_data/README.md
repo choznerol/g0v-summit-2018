@@ -1,1 +1,0 @@
-Please run 'yarn pull_airtable' to fetch data here
